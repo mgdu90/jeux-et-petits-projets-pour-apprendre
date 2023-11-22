@@ -3,7 +3,7 @@
 #include "normal.h"
 #include "duo.h"
 #include "puzzle.h"
-
+ 
 int main(void)
 {
 	//demande a l'utilisateur le mode de jeu dans lequel il veut jouer
